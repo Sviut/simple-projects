@@ -7,3 +7,5 @@
 **3 - [Rotating Navigation](https://sviut.github.io/simple-projects/03-Rotating%20Navigation/index.html)**
 
 **4 - [Hidden Search](https://sviut.github.io/simple-projects/04-Hidden%20Search/index.html)**
+
+**5 - [Blurry Loading](https://sviut.github.io/simple-projects/05-Blurry%20Loading/index.html)**
