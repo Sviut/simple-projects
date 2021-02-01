@@ -9,3 +9,5 @@
 **4 - [Hidden Search](https://sviut.github.io/simple-projects/04-Hidden%20Search/index.html)**
 
 **5 - [Blurry Loading](https://sviut.github.io/simple-projects/05-Blurry%20Loading/index.html)**
+
+**6 - [Scroll Animation](https://sviut.github.io/simple-projects/05-Scroll%20Animation/index.html)**
