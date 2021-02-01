@@ -13,3 +13,5 @@
 **6 - [Scroll Animation](https://sviut.github.io/simple-projects/06-Scroll%20Animation/index.html)**
 
 **7 - [Split Landing](https://sviut.github.io/simple-projects/07-Split%20Landing/index.html)**
+
+**8 - [Form Input Wave](https://sviut.github.io/simple-projects/08-Form%20Input%20Wave/index.html)**
