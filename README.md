@@ -15,3 +15,5 @@
 **7 - [Split Landing](https://sviut.github.io/simple-projects/07-Split%20Landing/index.html)**
 
 **8 - [Form Input Wave](https://sviut.github.io/simple-projects/08-Form%20Input%20Wave/index.html)**
+
+**9 - [Sound Board](https://sviut.github.io/simple-projects/09-Sound%20Board/index.html)**
