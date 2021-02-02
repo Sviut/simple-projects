@@ -23,3 +23,5 @@
 **11 - [Event KeyCodes](https://sviut.github.io/simple-projects/11-Event%20KeyCodes/index.html)**
 
 **12 - [FAQ](https://sviut.github.io/simple-projects/12-FAQ/index.html)**
+
+**13 - [Random Choice Picker](https://sviut.github.io/simple-projects/13-Random%20Choice%20Picker/index.html)**
