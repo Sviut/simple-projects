@@ -17,3 +17,5 @@
 **8 - [Form Input Wave](https://sviut.github.io/simple-projects/08-Form%20Input%20Wave/index.html)**
 
 **9 - [Sound Board](https://sviut.github.io/simple-projects/09-Sound%20Board/index.html)**
+
+**10 - [Dad Jokes](https://sviut.github.io/simple-projects/10-Dad%20Jokes/index.html)**
