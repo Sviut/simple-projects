@@ -21,3 +21,5 @@
 **10 - [Dad Jokes](https://sviut.github.io/simple-projects/10-Dad%20Jokes/index.html)**
 
 **11 - [Event KeyCodes](https://sviut.github.io/simple-projects/11-Event%20KeyCodes/index.html)**
+
+**12 - [FAQ](https://sviut.github.io/simple-projects/12-FAQ/index.html)**
