@@ -19,3 +19,5 @@
 **9 - [Sound Board](https://sviut.github.io/simple-projects/09-Sound%20Board/index.html)**
 
 **10 - [Dad Jokes](https://sviut.github.io/simple-projects/10-Dad%20Jokes/index.html)**
+
+**11 - [Event KeyCodes](https://sviut.github.io/simple-projects/11-Event%20KeyCodes/index.html)**
