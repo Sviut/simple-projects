@@ -25,3 +25,5 @@
 **12 - [FAQ](https://sviut.github.io/simple-projects/12-FAQ/index.html)**
 
 **13 - [Random Choice Picker](https://sviut.github.io/simple-projects/13-Random%20Choice%20Picker/index.html)**
+
+**14 - [Animated Navigation](https://sviut.github.io/simple-projects/14-Animated%20Navigation/index.html)**
