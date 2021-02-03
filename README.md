@@ -29,3 +29,5 @@
 **14 - [Animated Navigation](https://sviut.github.io/simple-projects/14-Animated%20Navigation)**
 
 **15 - [Increment Counter](https://sviut.github.io/simple-projects/15-Increment%20Counter)**
+
+**15 - [Drink Water](https://sviut.github.io/simple-projects/16-Drink%20Water)**
