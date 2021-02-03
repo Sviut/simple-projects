@@ -27,3 +27,5 @@
 **13 - [Random Choice Picker](https://sviut.github.io/simple-projects/13-Random%20Choice%20Picker/index.html)**
 
 **14 - [Animated Navigation](https://sviut.github.io/simple-projects/14-Animated%20Navigation/index.html)**
+
+**15 - [Increment Counter](https://sviut.github.io/simple-projects/15-Increment%20Counter/index.html)**
