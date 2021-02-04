@@ -32,4 +32,4 @@
 
 **16 - [Drink Water](https://sviut.github.io/simple-projects/16-Drink%20Water/)**
 
-**17 - [Drink Water](https://sviut.github.io/simple-projects/17-Movie%20App/)**
+**17 - [Movie App](https://sviut.github.io/simple-projects/17-Movie%20App/)**
