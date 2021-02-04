@@ -35,3 +35,5 @@
 **17 - [Movie App](https://sviut.github.io/simple-projects/17-Movie%20App/)**
 
 **18 - [Background Slider](https://sviut.github.io/simple-projects/18-Background%20Slider/index.html)**
+
+**19 - [Theme Clock](https://sviut.github.io/simple-projects/19-Theme%20Clock)**
