@@ -36,4 +36,4 @@
 
 **18 - [Background Slider](https://sviut.github.io/simple-projects/18-Background%20Slider/index.html)**
 
-**19 - [Theme Clock](https://sviut.github.io/simple-projects/19-Theme%20Clock)**
+**19 - [Theme Clock](https://sviut.github.io/simple-projects/19-Theme%20Clock/)**
