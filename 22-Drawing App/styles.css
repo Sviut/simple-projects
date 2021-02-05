@@ -41,6 +41,10 @@ canvas {
     cursor: pointer;
 }
 
+.toolbox > *:focus {
+    outline: none;
+}
+
 .toolbox > *:last-child {
     margin-left: auto;
 }
