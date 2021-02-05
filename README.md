@@ -41,3 +41,5 @@
 **20 - [Button Ripple Effect](https://sviut.github.io/simple-projects/20-Button%20Ripple%20Effect/)**
 
 **21 - [Drag N Drop](https://sviut.github.io/simple-projects/21-Drag%20N%20Drop/)**
+
+**22 - [Draw App](https://sviut.github.io/simple-projects/22-Draw%20App/)**
