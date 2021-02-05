@@ -43,3 +43,5 @@
 **21 - [Drag N Drop](https://sviut.github.io/simple-projects/21-Drag%20N%20Drop/)**
 
 **22 - [Drawing App](https://sviut.github.io/simple-projects/22-Drawing%20App/)**
+
+**23 - [Kinetic Loader](https://sviut.github.io/simple-projects/23-Kinetic%20Loader/)**
