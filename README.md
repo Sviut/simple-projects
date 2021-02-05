@@ -45,3 +45,5 @@
 **22 - [Drawing App](https://sviut.github.io/simple-projects/22-Drawing%20App/)**
 
 **23 - [Kinetic Loader](https://sviut.github.io/simple-projects/23-Kinetic%20Loader/)**
+
+**24 - [Content Placeholder](https://sviut.github.io/simple-projects/24-Content%20Placeholder/)**
