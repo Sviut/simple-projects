@@ -42,4 +42,4 @@
 
 **21 - [Drag N Drop](https://sviut.github.io/simple-projects/21-Drag%20N%20Drop/)**
 
-**22 - [Draw App](https://sviut.github.io/simple-projects/22-Draw%20App/)**
+**22 - [Drawing App](https://sviut.github.io/simple-projects/22-Drawing%20App/)**
