@@ -47,3 +47,5 @@
 **23 - [Kinetic Loader](https://sviut.github.io/simple-projects/23-Kinetic%20Loader/)**
 
 **24 - [Content Placeholder](https://sviut.github.io/simple-projects/24-Content%20Placeholder/)**
+
+**25 - [Sticky Navigation](https://sviut.github.io/simple-projects/25-Sticky%20Navigation/)**
