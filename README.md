@@ -61,3 +61,5 @@
 **30 - [Auto Text Effect](https://sviut.github.io/simple-projects/30-Auto%20Text%20Effect/)**
 
 **31 - [Password Generator](https://sviut.github.io/simple-projects/31-Password%20Generator/)**
+
+**32 - [Good, Cheap, Fast](https://sviut.github.io/simple-projects/32-Good%20Cheap%20Fast/)**
