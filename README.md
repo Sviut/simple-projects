@@ -63,3 +63,5 @@
 **31 - [Password Generator](https://sviut.github.io/simple-projects/31-Password%20Generator/)**
 
 **32 - [Good, Cheap, Fast](https://sviut.github.io/simple-projects/32-Good%20Cheap%20Fast/index.html)**
+
+**33 - [Notes App](https://sviut.github.io/simple-projects/33-Notes%20App/)**
