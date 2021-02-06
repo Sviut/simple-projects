@@ -59,3 +59,5 @@
 **29 - [Double Click Like](https://sviut.github.io/simple-projects/29-Double%20Click%20Like/)**
 
 **30 - [Auto Text Effect](https://sviut.github.io/simple-projects/30-Auto%20Text%20Effect/)**
+
+**31 - [Password Generator](https://sviut.github.io/simple-projects/31-Password%20Generator/)**
