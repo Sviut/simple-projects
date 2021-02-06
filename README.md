@@ -51,3 +51,5 @@
 **25 - [Sticky Navigation](https://sviut.github.io/simple-projects/25-Sticky%20Navigation/)**
 
 **26 - [Vertical Slider](https://sviut.github.io/simple-projects/26-Vertical%20Slider/)**
+
+**27 - [Toast Notification](https://sviut.github.io/simple-projects/27-Toast%20Notification/)**
