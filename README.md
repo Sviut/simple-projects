@@ -55,3 +55,5 @@
 **27 - [Toast Notification](https://sviut.github.io/simple-projects/27-Toast%20Notification/)**
 
 **28 - [Github Profiles](https://sviut.github.io/simple-projects/28-Github%20Profiles/)**
+
+**29 - [Double Click Like](https://sviut.github.io/simple-projects/29-Double%20Click%20Like/)**
