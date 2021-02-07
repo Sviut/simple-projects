@@ -71,3 +71,5 @@
 **35 - [Image Carousel](https://sviut.github.io/simple-projects/35-Image%20Carousel/)**
 
 **36 - [Hoverboard](https://sviut.github.io/simple-projects/36-Hoverboard/)**
+
+**37 - [Pokedex](https://sviut.github.io/simple-projects/37-Pokedex/)**
