@@ -67,3 +67,5 @@
 **33 - [Notes App](https://sviut.github.io/simple-projects/33-Notes%20App/)**
 
 **34 - [Animated Countdown](https://sviut.github.io/simple-projects/34-Animated%20Countdown/)**
+
+**35 - [Image Carousel](https://sviut.github.io/simple-projects/35-Image%20Carousel/)**
