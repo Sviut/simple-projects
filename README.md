@@ -76,4 +76,4 @@
 
 **38 - [Mobile Tab Navigation](https://sviut.github.io/simple-projects/38-Mobile%20Tab%20Navigation/)**
 
-**39 - [Password Strength Background](https://sviut.github.io/simple-projects/37-Password%20Strength%20Background/)**
+**39 - [Password Strength Background](https://sviut.github.io/simple-projects/39-Password%20Strength%20Background/)**
