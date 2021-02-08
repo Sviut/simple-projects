@@ -79,3 +79,5 @@
 **39 - [Password Strength Background](https://sviut.github.io/simple-projects/39-Password%20Strength%20Background/)**
 
 **40 - [3D Boxes Background](https://sviut.github.io/simple-projects/40-3D%20Boxes%20Background/)**
+
+**41 - [Verify Account](https://sviut.github.io/simple-projects/41-Verify%20Account/)**
