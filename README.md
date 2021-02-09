@@ -90,4 +90,4 @@
 
 **45 - [Netflix Mobile Navigation](https://sviut.github.io/simple-projects/45-Netflix%20Mobile%20Navigation/)**
 
-**46 - [Question text](https://sviut.github.io/simple-projects/46-Question%20text/)**
+**46 - [Quiz App](https://sviut.github.io/simple-projects/46-Quiz%20App/)**
