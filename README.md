@@ -95,3 +95,5 @@
 **47 - [Testimonial Box](https://sviut.github.io/simple-projects/47-Testimonial%20Box/)**
 
 **48 - [Random Image Feed](https://sviut.github.io/simple-projects/48-Random%20Image%20Feed/)**
+
+**49 - [Todo List](https://sviut.github.io/simple-projects/49-Todo%20List/)**
