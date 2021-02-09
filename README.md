@@ -87,3 +87,5 @@
 **43 - [Feedback UI](https://sviut.github.io/simple-projects/43-Feedback/index.html)**
 
 **44 - [Custom Range Slider](https://sviut.github.io/simple-projects/44-Custom%20Range%20Slider/)**
+
+**45 - [Netflix Mobile Navigation](https://sviut.github.io/simple-projects/45-Netflix%20Mobile%20Navigation/)**
