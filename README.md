@@ -93,3 +93,5 @@
 **46 - [Quiz App](https://sviut.github.io/simple-projects/46-Quiz%20App/)**
 
 **47 - [Testimonial Box](https://sviut.github.io/simple-projects/47-Testimonial%20Box/)**
+
+**48 - [Random Image Feed](https://sviut.github.io/simple-projects/48-Random%20Image%20Feed/)**
